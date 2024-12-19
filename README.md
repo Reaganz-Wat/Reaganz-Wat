@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ** Android and Web projects **
+- 🔭 I’m currently working on **Android and Web projects**
 <!--
 **Reaganz-Wat/Reaganz-Wat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
