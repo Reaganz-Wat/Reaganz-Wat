@@ -32,7 +32,7 @@
 - 💬 Let’s connect on:
   - Django, NestJS, Docker, PostgreSQL
   - Jetpack Compose, React, and CI/CD pipelines
-
+  - #ALX_SE journey with @alx_africa
 ---
 
 ### 🛠️ Tech Stack & Tools
