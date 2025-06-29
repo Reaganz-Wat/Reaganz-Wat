@@ -1,24 +1,139 @@
-## Hi there 👋
-- 🔭 I’m currently working on **Android and Web projects**
-<!--
-**Reaganz-Wat/Reaganz-Wat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub Profile README -->
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there 👋, I'm Wat</h1>
+<h3 align="center">🚀 Backend Developer | 🛠️ DevOps Learner | 🤖 AI & MLOps Explorer</h3>
 
-- 🔭 I’m currently working on Android and Web projects
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reaganz-Wat&label=Profile%20views&color=0e75b6&style=flat" alt="Reaganz-Wat" />
+</p>
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/watmon.reagan) 
-[![Twitter (X)](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/ReaganzWat)  
+### 🙋‍♂️ About Me
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+<blockquote>
+  🚧 I'm currently enrolled in the <strong>ALX ProDev Backend Web Development</strong> program.  
+  I’m passionate about building scalable systems, solving complex problems, and learning in public through collaboration and open source.
+</blockquote>
+
+- 🌱 I’m currently focused on:  
+  `Backend Development` | `DevOps` | `MLOps` | `AI Integration`
+
+- 💡 I love:
+  - Solving backend and systems design challenges
+  - Working on automation and deployment pipelines
+  - Learning ML workflows and deployment strategies
+
+- 🎯 My Goals:
+  - Become a **Senior Backend Developer**
+  - Master **DevOps/MLOps best practices**
+  - Contribute to impactful **AI-powered backend systems**
+
+- 💬 Let’s connect on:
+  - Django, NestJS, Docker, PostgreSQL
+  - Jetpack Compose, React, and CI/CD pipelines
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 🏗️ Featured Project
+
+<details>
+  <summary><b>🏡 Click to see my Airbnb Clone Backend Project</b></summary>
+
+  - 🏡 **Airbnb Clone Project** ([View Project 🔗](https://github.com/Reaganz-Wat/airbnb-clone-project))  
+    A full-featured, scalable **backend system** simulating core Airbnb platform features.  
+    Includes user authentication, listings, bookings, payments, reviews, and advanced DevOps features.
+
+  **🌟 Highlights:**
+  - 🔐 JWT-based User Auth & Role Management (Guests, Hosts)
+  - 🏠 Property Listing CRUD, availability, price calculation
+  - 📅 Booking System with total cost + check-in/out logic
+  - 💳 Payment Tracking with secure processing
+  - ⭐ Reviews & Ratings
+  - 🔎 Search and Filtering support
+
+  **🛠️ Tech Stack:**
+  Django · DRF · PostgreSQL · GraphQL · Redis · Celery · Docker · GitHub Actions
+
+  **🔐 Security:**
+  - API Rate Limiting · RBAC · Encrypted data · Input Validation
+
+  **🚀 DevOps:**
+  - Dockerized deployment
+  - CI/CD pipelines with GitHub Actions
+  - Automated testing + DB migration
+
+  <p align="left">
+    <img src="https://img.shields.io/badge/Django-3.2-success?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Celery-Async-yellowgreen?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-Caching-red?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/GraphQL-Flexible-orange?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-Containerized-blue?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Auth-JWT-lightgrey?style=for-the-badge&logo=jsonwebtokens" />
+  </p>
+
+</details>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reaganz-Wat&show_icons=true&theme=tokyonight" alt="wat's github stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reaganz-Wat&theme=tokyonight" alt="wat's streak stats"/>
+</p>
+
+---
+
+### 🧠 What I’m Learning Now
+
+<ul>
+  <li>🔍 Advanced SQL (joins, indexes, query tuning)</li>
+  <li>🛠️ Docker + Kubernetes for microservices</li>
+  <li>📊 ML pipelines & model deployment (MLOps)</li>
+  <li>💡 System design and distributed architecture</li>
+</ul>
+
+---
+
+### 🔗 Portfolio & Socials
+
+<p align="left">
+  <a href="https://watmonreagan.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/watmon-reagan-a95aab268/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Reaganz-Wat" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/ReaganzWat" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code it, Ship it, Scale it!"</i> 🚀
+</p>
