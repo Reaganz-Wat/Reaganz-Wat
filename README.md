@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Wat</h1>
-<h3 align="center">🚀 Backend Developer | 🛠️ DevOps Learner | 🤖 AI & MLOps Explorer</h3>
+<h3 align="center">🚀 Backend Developer | 🛠️ DevOps Engineer | 🤖 MLOps Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Reaganz-Wat&label=Profile%20views&color=0e75b6&style=flat" alt="Reaganz-Wat" />
@@ -12,27 +12,28 @@
 ### 🙋‍♂️ About Me
 
 <blockquote>
-  🚧 I'm currently enrolled in the <strong>ALX ProDev Backend Web Development</strong> program.  
-  I’m passionate about building scalable systems, solving complex problems, and learning in public through collaboration and open source.
+  I build scalable backend systems, automate infrastructure, and deploy machine learning pipelines in production.  
+  Passionate about solving complex problems and creating impactful AI-powered solutions.
 </blockquote>
 
-- 🌱 I’m currently focused on:  
+- 🌱 Expertise:
   `Backend Development` | `DevOps` | `MLOps` | `AI Integration`
 
-- 💡 I love:
-  - Solving backend and systems design challenges
-  - Working on automation and deployment pipelines
-  - Learning ML workflows and deployment strategies
+- 💡 Interests:
+  - Automation and deployment pipelines
+  - Backend system and microservices design
+  - ML workflow deployment and monitoring
 
-- 🎯 My Goals:
-  - Become a **Senior Backend Developer**
-  - Master **DevOps/MLOps best practices**
-  - Contribute to impactful **AI-powered backend systems**
+- 🎯 Professional Goals:
+  - Lead **Backend & MLOps projects**
+  - Design and maintain **robust, scalable infrastructure**
+  - Build **AI-powered systems** in production environments
 
-- 💬 Let’s connect on:
+- 💬 Tech Focus:
   - Django, NestJS, Docker, PostgreSQL
-  - Jetpack Compose, React, and CI/CD pipelines
-  - #ALX_SE journey with @alx_africa
+  - CI/CD, Kubernetes, Redis, Celery
+  - Cloud-native and distributed system design
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -48,6 +49,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ---
@@ -55,41 +57,29 @@
 ### 🏗️ Featured Project
 
 <details>
-  <summary><b>🏡 Click to see my Airbnb Clone Backend Project</b></summary>
+  <summary><b>🏡 Airbnb Clone Backend</b></summary>
 
   - 🏡 **Airbnb Clone Project** ([View Project 🔗](https://github.com/Reaganz-Wat/airbnb-clone-project))  
-    A full-featured, scalable **backend system** simulating core Airbnb platform features.  
-    Includes user authentication, listings, bookings, payments, reviews, and advanced DevOps features.
+    A scalable **backend system** simulating core Airbnb features, with advanced DevOps and MLOps integration.
 
   **🌟 Highlights:**
   - 🔐 JWT-based User Auth & Role Management (Guests, Hosts)
-  - 🏠 Property Listing CRUD, availability, price calculation
-  - 📅 Booking System with total cost + check-in/out logic
-  - 💳 Payment Tracking with secure processing
+  - 🏠 Property Listing CRUD, availability, pricing logic
+  - 📅 Booking System with total cost and check-in/out validation
+  - 💳 Payment Processing
   - ⭐ Reviews & Ratings
-  - 🔎 Search and Filtering support
+  - 🔎 Search and Filtering
 
   **🛠️ Tech Stack:**
   Django · DRF · PostgreSQL · GraphQL · Redis · Celery · Docker · GitHub Actions
 
   **🔐 Security:**
-  - API Rate Limiting · RBAC · Encrypted data · Input Validation
+  API Rate Limiting · RBAC · Input Validation · Encrypted Data
 
-  **🚀 DevOps:**
+  **🚀 DevOps & MLOps:**
   - Dockerized deployment
   - CI/CD pipelines with GitHub Actions
-  - Automated testing + DB migration
-
-  <p align="left">
-    <img src="https://img.shields.io/badge/Django-3.2-success?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Celery-Async-yellowgreen?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-Caching-red?style=for-the-badge&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/GraphQL-Flexible-orange?style=for-the-badge&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-Containerized-blue?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white" />
-    <img src="https://img.shields.io/badge/Auth-JWT-lightgrey?style=for-the-badge&logo=jsonwebtokens" />
-  </p>
+  - Automated testing and database migration
 
 </details>
 
@@ -98,20 +88,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reaganz-Wat&show_icons=true&theme=tokyonight" alt="wat's github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reaganz-Wat&theme=tokyonight" alt="wat's streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Reaganz-Wat&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reaganz-Wat&theme=tokyonight" alt="GitHub streak"/>
 </p>
-
----
-
-### 🧠 What I’m Learning Now
-
-<ul>
-  <li>🔍 Advanced SQL (joins, indexes, query tuning)</li>
-  <li>🛠️ Docker + Kubernetes for microservices</li>
-  <li>📊 ML pipelines & model deployment (MLOps)</li>
-  <li>💡 System design and distributed architecture</li>
-</ul>
 
 ---
 
