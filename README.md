@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Wat</h1>
-<h3 align="center">🚀 Backend Developer | 🛠️ DevOps Engineer | 🤖 MLOps Engineer</h3>
+<h3 align="center">🚀 Backend Developer | 🛠️ DevOps Engineer | 🤖 MLOps Engineer | Technical Writer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Reaganz-Wat&label=Profile%20views&color=0e75b6&style=flat" alt="Reaganz-Wat" />
