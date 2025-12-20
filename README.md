@@ -71,7 +71,7 @@
   - 🔎 Search and Filtering
 
   **🛠️ Tech Stack:**
-  Django · DRF · PostgreSQL · GraphQL · Redis · Celery · Docker · GitHub Actions
+  Django · DRF · PostgreSQL · GraphQL · Redis · Celery · Docker · GitHub Actions · Tensorflow
 
   **🔐 Security:**
   API Rate Limiting · RBAC · Input Validation · Encrypted Data
