@@ -80,6 +80,7 @@
   - Dockerized deployment
   - CI/CD pipelines with GitHub Actions
   - Automated testing and database migration
+  - Model building
 
 </details>
 
