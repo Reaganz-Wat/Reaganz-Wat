@@ -30,7 +30,7 @@
   - Build **AI-powered systems** in production environments
 
 - 💬 Tech Focus:
-  - Django, NestJS, Docker, PostgreSQL
+  - Django, Docker, PostgreSQL
   - CI/CD, Kubernetes, Redis, Celery
   - Cloud-native and distributed system design
 
