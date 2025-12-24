@@ -13,7 +13,7 @@
 
 <blockquote>
   I build scalable backend systems, automate infrastructure, and deploy machine learning pipelines in production.  
-  Passionate about solving complex problems and creating impactful AI-powered solutions.
+  Passionate about computer vision and creating impactful AI-powered solutions.
 </blockquote>
 
 - 🌱 Expertise:
@@ -25,15 +25,17 @@
   - ML workflow deployment and monitoring
 
 - 🎯 Professional Goals:
-  - Lead **Backend & MLOps projects**
+  - ML Engineer, AI Researcher
   - Design and maintain **robust, scalable infrastructure**
   - Build **AI-powered systems** in production environments
 
 - 💬 Tech Focus:
-  - Django, Docker, PostgreSQL
+  - Machine Learning, Computer Vision
+  - FastAPI, Django, Docker, PostgreSQL
   - CI/CD, Kubernetes, Redis, Celery
   - Cloud-native and distributed system design
-
+  - Technical Writing
+    
 ---
 
 ### 🛠️ Tech Stack & Tools
