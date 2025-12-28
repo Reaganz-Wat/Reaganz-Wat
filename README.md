@@ -34,7 +34,7 @@
   - FastAPI, Django, Docker, PostgreSQL
   - CI/CD, Kubernetes, Redis, Celery
   - Cloud-native and distributed system design
-  - Technical Writing | Medium
+  - Technical Writing
     
 ---
 
